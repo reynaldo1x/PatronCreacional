@@ -1,0 +1,7 @@
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Singleton\bin\Debug\Singleton.exe
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Singleton\bin\Debug\Singleton.pdb
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Singleton\obj\Debug\Singleton.exe
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Singleton\obj\Debug\Singleton.pdb

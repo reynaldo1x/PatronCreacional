@@ -1,0 +1,7 @@
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Builder\bin\Debug\Builder.exe.config
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Builder\bin\Debug\Builder.exe
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Builder\bin\Debug\Builder.pdb
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Builder\obj\Debug\Builder.exe
+C:\Users\gaspar.meza\Documents\Visual Studio 2019\Projects\Builder\obj\Debug\Builder.pdb
